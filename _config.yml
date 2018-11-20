@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+deploy:
+  type: git
+  repo: git@github.com:Herema-Xu/herema-xu.github.io.github.io.git
+  branch: master
