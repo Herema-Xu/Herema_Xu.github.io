@@ -19,6 +19,7 @@
     - [Book]
     - [Journal]
     - [Essay]
+5. [Extended learning]
     
 ## Useful Links
 - [吴恩达机器学习](https://github.com/Herema-Xu/Coursera-ML-AndrewNg-Notes)
