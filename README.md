@@ -8,13 +8,10 @@
 
 ## Contents
 1. [Machine Learning]
-    - [Python]
 2. [Algorithm]
     - [Python]
     - [Java]
 3. [Data Mining]
-    - [Python]
-    - [Java]
 4. [Reading and Thinking]
     - [Book]
     - [Journal]
