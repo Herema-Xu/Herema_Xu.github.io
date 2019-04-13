@@ -5,3 +5,15 @@
 </div>
 
 <br>
+
+## Contents
+1. [Machine Learning](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions)
+    - [Python](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/Python)
+2. [Algorithm](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation)
+    - [Python](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Python)
+    - [Java](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Java)
+2. [Data Mining](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation)
+    - [Python](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Python)
+    - [Java](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Java)
+    
+## Useful Links
