@@ -7,18 +7,18 @@
 <br>
 
 ## Contents
-1.- [Mathematics]
-2.- [operational research]
-3.- [Algorithm]
+- [Mathematics]
+- [operational research]
+- [Algorithm]
     - [Python]
     - [C++]
-4.- [Machine Learning]
-5.- [Data Mining]
-6.- [Reading]
+- [Machine Learning]
+- [Data Mining]
+- [Reading]
     - [Book]
     - [Journal]
     - [Essay]
-7.- [Extended learning]
+- [Extended learning]
     
 ## Useful Links
 - [吴恩达机器学习](https://github.com/Herema-Xu/Coursera-ML-AndrewNg-Notes)
